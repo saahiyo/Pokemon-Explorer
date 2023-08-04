@@ -2,8 +2,7 @@
 
 Explore the world of Pokémon with this Pokedex-style website powered by PokeAPI.
 
-![Pokemon-Explorer Screenshot]
-("screenshot.png")
+[![screenshot.jpg](https://i.postimg.cc/Jndd7pDW/screenshot.jpg)](https://postimg.cc/G8GjqJxM)
 
 ## Table of Contents
 - [Description](#description)
