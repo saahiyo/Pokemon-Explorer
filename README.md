@@ -3,7 +3,7 @@
 Explore the world of Pokémon with this Pokedex-style website powered by PokeAPI.
 
 ![Pokemon-Explorer Screenshot]
-(https://github.com/saahiyo/Pokemon-Explorer/blob/main/screenshot.png)
+("screenshot.png")
 
 ## Table of Contents
 - [Description](#description)
